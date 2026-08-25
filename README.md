@@ -1,1 +1,1 @@
-Yapay zeka (AI)  projelerim ve temel -> ileri seviye denemelerimi paylaştığım repositoryim ne yaptığımı ve hangi kütüphaneleri kullandığımı belirttim dosyalarda boyutu kücük tutmak icin sanal ortamları ekleyemedim. 
+Yapay zeka (AI)  projelerim ve temel -> ileri seviye denemelerimi paylaştığım repositoryim ne yaptığımı ve hangi kütüphaneleri kullandığımı belirttim .
